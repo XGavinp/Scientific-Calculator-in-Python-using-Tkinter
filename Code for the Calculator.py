@@ -700,3 +700,5 @@ mod_btn = Button(btnrow7, text="Hex->Oct", font="Segoe 15", relief=GROOVE, bd=0,
 mod_btn.pack(side=LEFT, expand=TRUE, fill=BOTH)
 
 root.mainloop()
+
+# Coded by Gavin Pereira
